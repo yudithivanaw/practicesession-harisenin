@@ -57,7 +57,7 @@ class _TodoPageState extends State<TodoPage> {
                   child: TextField(
                     controller: _controller,
                     decoration: const InputDecoration(
-                      hintText: 'Enter todo',
+                      hintText: 'Enter to do',
                     ),
                   ),
                 ),
